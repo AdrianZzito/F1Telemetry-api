@@ -1,0 +1,6 @@
+fastapi
+fastf1
+matplotlib
+numpy
+pandas
+aiofiles
