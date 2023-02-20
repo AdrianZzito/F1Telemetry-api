@@ -1,5 +1,5 @@
 fastapi
-fastf1
+fastf1>=2.3.0
 matplotlib
 numpy
 pandas
